@@ -1,3 +1,4 @@
+# print( Hello, my name is Christian, and welcome to my GitHub
 
 [![Estatísticas do Christian](https://github-readme-stats.vercel.app/api?username=christianwislockioli-rgb&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -33,6 +34,12 @@
 
 ###
 
-![Snake animation](https://github.com/christianwislockioli-rgb/christianwislockioli-rgb/
-blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/christianwislockioli-rgb/christianwislockioli-rgb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/christianwislockioli-rgb/christianwislockioli-rgb/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Game" src="https://raw.githubusercontent.com/christianwislockioli-rgb/christianwislockioli-rgb/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
           
