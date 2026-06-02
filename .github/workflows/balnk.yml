@@ -1,0 +1,42 @@
+name: Generate Snake Game
+
+# Controlador do tempo que será feita a atualização dos arquivos.
+on:
+  schedule:
+    # Será atualizado a cada 5 horas.
+    - cron: "0 */5 * * *"
+  
+  # Permite rodar manualmente na aba Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    # IMPORTANTE: Dá permissão para o bot salvar os arquivos gerados no seu repositório
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      # Repositório que será utilizado para gerar os arquivos (versão atualizada v3)
+      - name: Gerar a animação da cobrinha
+        uses: Platane/snk@v3
+        with:
+          # AQUI ESTÁ O SEU USUÁRIO CORRETO:
+          github_user_name: christianwislockioli-rgb
+          
+          # Gera a imagem normal e uma versão especial para o tema escuro do GitHub
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Envia as imagens geradas para a branch "output"
+      - name: Push das imagens para a branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
