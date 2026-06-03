@@ -38,7 +38,7 @@
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <br>
-  <img alt="Excel" src="https://img.shields.io/badge/Excel_(Intermediário)-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> 
 </div>
 
