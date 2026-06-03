@@ -1,13 +1,10 @@
 <div align="center">
 
+  <!-- 1. GIF do Terminal -->
   <img src="./header.gif" alt="Terminal Demo - Christian" width="800">
   <br><br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Transformando+dados+em+Solu%C3%A7%C3%B5es!;Analista+de+Dados;Cientista+de+Dados" alt="Typing SVG" />
-  </a>
-  <br><br>
-
+  <!-- 2. Badges: LinkedIn e Contador de Visitas -->
   <a href="https://www.linkedin.com/in/christian-wislocki-4a4040321/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -16,10 +13,12 @@
 
 </div>
 
+</div>
+
 ---
 
 ### 👨‍💻 Sobre mim
-- 🔭 Atualmente trabalhando em projetos de portfólio (como a modelagem de dados do dataset financeiro Berka) focados em bancos de dados relacionais, **usando SQL, Python e Power BI.**
+- 🔭 Atualmente trabalhando em projetos de portfólio focados em bancos de dados relacionais, **usando SQL, Python e Power BI.**
 
 - 🌱 Estudando sempre mais sobre **Python, Ciência de Dados, BI e visualização de dados estruturados.**
 
