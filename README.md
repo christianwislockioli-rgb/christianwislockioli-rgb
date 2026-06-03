@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2f80ed&center=true&vCenter=true&width=435&lines=Desenvolvedor+Python;Analista+de+Dados;Transformando+dados+em+soluções!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Transformando+dados+em+solu%C3%A7%C3%B5es!;Analista+de+Dados;Cientista+de+Dados" alt="Typing SVG" />
   </a>
 </div>
 
@@ -42,8 +42,8 @@
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianwislockioli-rgb&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianwislockioli-rgb&layout=compact&theme=dracula"/>
+  <img height="180" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+  <img height="180" src="./profile/top-langs.svg" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
