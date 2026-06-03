@@ -1,3 +1,14 @@
+<div align="center">
+  <a href="https://www.linkedin.com/in/christian-wislocki-4a4040321/" target="_blank">
+    <img width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+<br>
+<div align="center">
+  <img width="90" src="https://komarev.com/ghpvc/?username=christianwislockioli-rgb&style=for-the-badge&color=FF69B4&label=VISITAS" alt="Contador de Visitas" />
+</div>
+
+
 # 🐍 print("Hello, my name is Christian, and welcome to my GitHub!")
 
 <div align="center">
@@ -5,6 +16,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Transformando+dados+em+Solu%C3%A7%C3%B5es!;Analista+de+Dados;Cientista+de+Dados" alt="Typing SVG" />
   </a>
 </div>
+
 
 ---
 
