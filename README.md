@@ -48,7 +48,7 @@
 
 ---
 
-### 🐍 Contribuições (Snake Game)
+### 🐍 Contribuições
 
 <div align="center">
   <picture>
