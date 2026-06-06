@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="115"
-        viewBox="0 0 300 115"
+        height="140"
+        viewBox="0 0 300 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -130,7 +130,17 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="131.17"
+          width="249.27"
+          height="8"
+          fill="#B9D9FF"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.27"
+          y="0"
+          width="10.69"
           height="8"
           fill="#DA5B0B"
         />
@@ -138,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="131.17"
+          x="249.96"
           y="0"
-          width="118.83"
+          width="10.04"
           height="8"
           fill="#3572A5"
         />
@@ -149,16 +159,23 @@
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#B9D9FF" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        AGS Script 99.71%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 52.47%
+        Jupyter Notebook 0.28%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 47.53%
+        Python 0.01%
       </text>
     </g>
   </g></g>
